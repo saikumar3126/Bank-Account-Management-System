@@ -54,6 +54,18 @@ The main objective of this project is to provide a simple and structured system 
 - Connect the Java application to MySQL using JDBC.
 - Use `PreparedStatement` for executing SQL queries.
 
+## Data base
+The project can be extended by connecting the account table with a transactions table to maintain transaction history.
+
+## Transaction table
+
+ <img width="1021" height="530" alt="Screenshot 2026-10-04 184228" src="https://github.com/user-attachments/assets/aba3528b-4ff2-4c9f-8b58-53027e1add58" />
+
+## Project result
+
+<img width="1373" height="350" alt="Screenshot 2026-10-04 184744" src="https://github.com/user-attachments/assets/c623d856-a1b7-433e-ae79-0532e6468f72" />
+
+
 
 ## 🏗️ Project Architecture
 
@@ -83,13 +95,3 @@ Bank-Account-Management-System
 │
 └── README.md
 
-## Data base
-The project can be extended by connecting the account table with a transactions table to maintain transaction history.
-
-## Transaction table
-
- <img width="1021" height="530" alt="Screenshot 2026-10-04 184228" src="https://github.com/user-attachments/assets/aba3528b-4ff2-4c9f-8b58-53027e1add58" />
-
-## Project result
-
-<img width="1373" height="350" alt="Screenshot 2026-10-04 184744" src="https://github.com/user-attachments/assets/c623d856-a1b7-433e-ae79-0532e6468f72" />
